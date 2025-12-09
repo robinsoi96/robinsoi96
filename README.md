@@ -1,7 +1,5 @@
 # SOI SHENG LEONG (ROBIN)
 
-## Summary
-
 Hi, my name is Sheng Leong. You can call me **Robin**.
 
 I'm just a regular engineer who has strong interest towards `DevOps`, where continous integration and deployment to ensure seamless software execution and releases.
