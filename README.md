@@ -14,7 +14,7 @@ Besides being an engineer, I'm a fitness enthusiast in both weight training and 
 
 | Project Name | Description |
 |---|---|
-| **<a href="https://github.com/robinsoi96/SL_Vagrant_Lab.git">SL_Vagrant_Lab</a>** | Personal repo to create own Linux VM using Vagrant for DevOps practice, to save cost setting up a whole new Linux system for it. <br><br> **Skills:** `Vagrant`, `Shell scripting` |
+| **<a href="https://github.com/robinsoi96/SL_Vagrant_Lab.git">SL_Vagrant_Lab</a>** | Personal repo to create own Linux VM using Vagrant for DevOps practice, to save cost setting up a whole new Linux system for it. <br><br> **Skills:** `Vagrant`, `Shell scripting`, `Linux` |
 
 <br>
 
